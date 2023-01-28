@@ -64,8 +64,9 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum et
-            vero, sint nesciunt eos voluptas?
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore
+            architecto quo dicta, eaque voluptates assumenda dolores eius
+            delectus quae fugiat quod facilis placeat expedita? Ducimus?
           </Typography>
         </AccordionDetails>
       </Accordion>
